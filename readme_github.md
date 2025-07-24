@@ -15,9 +15,9 @@ Un scanner WiFi intelligent et économe en énergie basé sur ESP32 WROOM-32D av
 - **Nettoyage automatique** des anciens réseaux (20 min d'inactivité)
 
 ### 🔊 **Alertes Sonores**
-- **Buzzer intégré** pour nouvelles détections
+- **Buzzer passif ** pour nouvelles détections
 - **Alertes uniquement** pour nouveaux réseaux ouverts
-- **Mélodie distinctive** : 2 bips longs + 3 bips courts
+- **Mélodie distinctive**
 - **Affichage visuel 15 secondes** sur écran OLED
 
 ### 🔋 **Économie d'Énergie**
@@ -48,7 +48,6 @@ Un scanner WiFi intelligent et économe en énergie basé sur ESP32 WROOM-32D av
 - Batterie Li-Po 3.7V (1000-2000mAh)
 - Module de charge TP4056
 - Boîtier de protection
-- Résistance 220Ω pour buzzer
 
 ## 🔌 Schéma de Câblage
 
